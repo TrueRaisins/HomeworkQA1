@@ -5,6 +5,7 @@ public class TriangleArea {
         int sideB = 4;
         int sideC = 3;
         double triangleArea = Area(sideA, sideB, sideC);
+
         System.out.println(triangleArea);
     }
 

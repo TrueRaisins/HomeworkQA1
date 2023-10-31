@@ -3,6 +3,7 @@ public class SquareArea {
 
         int sideLength = 5;
         int squareArea = calculateSquareArea(sideLength);
+
         System.out.println(squareArea);
     }
 
